@@ -6,4 +6,3 @@ const dc_heroes = ["superman" , "flash" , "batman"]
 // marvel_heroes.concat(dc_heroes)
 // console.log(marvel_heroes);
 
-c
