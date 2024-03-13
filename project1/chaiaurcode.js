@@ -1,4 +1,4 @@
-const buttons = document.querySelectorAll('.button');
+const buttons = document.querySelectorAll('.button');//button saare select karne hai and holding it in variable
 const body = document.querySelector("body")
 
 
